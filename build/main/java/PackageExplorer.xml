@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_102" class="java.beans.XMLDecoder">
+ <object class="ClassData">
+  <void property="clients">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <string>None</string>
+    </void>
+   </object>
+  </void>
+  <void property="fields">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <string>argsList</string>
+    </void>
+    <void method="add">
+     <string>optsList</string>
+    </void>
+    <void method="add">
+     <string>doubleOptsList</string>
+    </void>
+   </object>
+  </void>
+  <void property="interfaces">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <string>None</string>
+    </void>
+   </object>
+  </void>
+  <void property="methods">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <string>main: public</string>
+    </void>
+    <void method="add">
+     <string>listFiles</string>
+    </void>
+    <void method="add">
+     <string>getOpts</string>
+    </void>
+    <void method="add">
+     <string>loadFiles</string>
+    </void>
+    <void method="add">
+     <string>saveData</string>
+    </void>
+    <void method="add">
+     <string>classToXML</string>
+    </void>
+    <void method="add">
+     <string>setInterfaces: public</string>
+    </void>
+    <void method="add">
+     <string>setFields: public</string>
+    </void>
+    <void method="add">
+     <string>setMethods: public</string>
+    </void>
+    <void method="add">
+     <string>setProviders: public</string>
+    </void>
+    <void method="add">
+     <string>setClients: public</string>
+    </void>
+    <void method="add">
+     <string>printOpts</string>
+    </void>
+    <void method="add">
+     <string>printArgs</string>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <string>PackageExplorer</string>
+  </void>
+  <void property="providers">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <string>None</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
